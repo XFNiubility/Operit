@@ -2764,6 +2764,7 @@
     <string name="chat_create_dedicated_terminal_session_failed">Tidak dapat mencipta sesi terminal berdedikasi</string>
     <string name="chat_create_workspace_terminal_session_failed">Tidak dapat mencipta sesi terminal ruang kerja</string>
     <string name="chat_execute_command_failed">Gagal melaksanakan arahan: %1$s</string>
+    <string name="chat_execute_command_cancel_failed">Tidak dapat membatalkan arahan: sesi terminal sasaran telah ditutup atau belum sedia</string>
     <string name="workspace_command_already_running">Sudah ada arahan ruang kerja sedang berjalan</string>
     <string name="workspace_command_running">Arahan sedang berjalan</string>
     <string name="workspace_command_cancelling">Membatalkan arahan...</string>
@@ -6030,6 +6031,7 @@ Kini anda boleh menggunakan mod AutoGLM di antara muka perbualan.</string>
     <string name="gemini_error_cannot_connect">Tidak dapat menyambung ke pelayan, sila semak sambungan rangkaian atau alamat API</string>
     <string name="gemini_error_max_retries">Gagal mendapatkan respons AI, mencapai had percubaan semula: %1$s</string>
     <string name="gemini_error_response_failed">Gagal mendapatkan respons AI: %1$s</string>
+    <string name="gemini_error_empty_contents">Tiada kandungan mesej untuk dihantar: sejarah perbualan kosong atau hanya mengandungi teks pemikiran</string>
     <string name="gemini_error_connection_timeout">Sambungan tamat masa atau terputus, telah mencuba semula %1$d kali: %2$s</string>
     <string name="gemini_connection_success">Sambungan berjaya!</string>
     <string name="gemini_connection_test_failed">Ujian sambungan gagal: %1$s</string>
